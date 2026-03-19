@@ -1,0 +1,22 @@
+{
+    "proteinler": [
+        {"ad": "Tavuk Göğsü", "kalori": 165, "protein": 31.0, "karbonhidrat": 0.0, "yag": 3.6},
+        {"ad": "Dana Bonfile", "kalori": 250, "protein": 26.0, "karbonhidrat": 0.0, "yag": 15.0},
+        {"ad": "Yumurta", "kalori": 155, "protein": 13.0, "karbonhidrat": 1.1, "yag": 11.0},
+        {"ad": "Süzme Peynir", "kalori": 98, "protein": 11.0, "karbonhidrat": 3.4, "yag": 4.3},
+        {"ad": "Somon", "kalori": 208, "protein": 20.0, "karbonhidrat": 0.0, "yag": 13.0}
+    ],
+    "karbonhidratlar": [
+        {"ad": "Yulaf Ezmesi", "kalori": 389, "protein": 16.9, "karbonhidrat": 66.0, "yag": 6.9},
+        {"ad": "Basmati Pirinç", "kalori": 130, "protein": 2.7, "karbonhidrat": 28.0, "yag": 0.3},
+        {"ad": "Tatlı Patates", "kalori": 86, "protein": 1.6, "karbonhidrat": 20.0, "yag": 0.1},
+        {"ad": "Tam Buğday Makarna", "kalori": 124, "protein": 5.3, "karbonhidrat": 27.0, "yag": 0.5},
+        {"ad": "Karabuğday", "kalori": 343, "protein": 13.0, "karbonhidrat": 71.0, "yag": 3.4}
+    ],
+    "yaglar": [
+        {"ad": "Zeytinyağı", "kalori": 884, "protein": 0.0, "karbonhidrat": 0.0, "yag": 100.0},
+        {"ad": "Çiğ Badem", "kalori": 579, "protein": 21.0, "karbonhidrat": 22.0, "yag": 50.0},
+        {"ad": "Avokado", "kalori": 160, "protein": 2.0, "karbonhidrat": 9.0, "yag": 15.0},
+        {"ad": "Ceviz", "kalori": 654, "protein": 15.0, "karbonhidrat": 14.0, "yag": 65.0}
+    ]
+}
