@@ -18,12 +18,5 @@ Uygulamayı hemen test etmek için aşağıdaki bağlantıya tıklayabilirsiniz:
 * **Veritabanı Yönetimi:** Supabase & JSON tabanlı veri entegrasyonu.
 * **Veri İşleme:** Pandas ve NumPy kütüphaneleri ile hassas hesaplamalar.
 
-## 📸 Uygulamadan Görünümler
-![Uygulama Giriş Ekranı](https://raw.githubusercontent.com/semanurbirdal/ProDiet-AI/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-04-26%20143601.jpg)
-
-## 📦 Yerel Kurulum (Local Setup)
-Projeyi kendi bilgisayarınızda çalıştırmak isterseniz şu adımları izleyin:
-
-1. Depoyu klonlayın:
-   ```bash
-   git clone [https://github.com/semanurbirdal/ProDiet-AI.git](https://github.com/semanurbirdal/ProDiet-AI.git)
+---
+*Bu proje Veri Bilimi ve Analitiği çalışmaları kapsamında geliştirilmiştir.*
